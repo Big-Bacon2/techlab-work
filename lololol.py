@@ -20,4 +20,8 @@ else:
 				if grade < 66 :
 					b = "F"
 					print b
+				else:
+				if grade < 4 :
+					b = "Congragulations!you reached a grade un-known to teachers!"
+					print b
 					
