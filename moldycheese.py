@@ -1,23 +1,23 @@
-]grade = int(input("Enter Percentage."))
-b = 0
-if grade > 93:
-	b = "A"
-	print b 
-else:
-	#if grade > 79 and 79 <=91:
-	if grade > 79 and grade <= 91
-		b = "B"
-		print b 
-	else:
-		if grade > 74 <= 82:
-			b = "C"
-			print b 
-		else:
-			if grade > 65 <= 76:
-				b = "D"
-				print b 
-			else:
-				if grade < 66 :
-					b = "F"
-					print b
-					
+word = input("type a word.")
+b = word[0]
+c = word[1]
+d = word[2] 
+e = word[3]
+f = word[4]
+g = word[5]
+h = word[6]
+if c in ["a","e","i","u"]:
+	a = 0
+	a + 1
+	if b in ["a","e","i","u"]:
+	    a + 1
+		if d in ["a","e","i","u"]:
+			a + 1
+			if e in ["a","e","i","u"]:
+				a + 1
+				if f in ["a","e","i","u"]:
+					a + 1
+					if g in ["a","e","i","u"]:
+	                    a + 1
+						if h in ["a","e","i","u"]:
+							a + 1
