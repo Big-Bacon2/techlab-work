@@ -19,6 +19,5 @@ else:
 			else:
 				if grade < 66 :
 					b = "F"
-					print b 
-
-
+					print b
+					
