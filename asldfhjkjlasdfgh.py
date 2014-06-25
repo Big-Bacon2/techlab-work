@@ -1,5 +1,5 @@
 # author: Big-Bacon2
- grade = float(input("Type a percent:"))
+ grade = float(input("Type a percent:")):
 if grade >= 90:
 	print "You earned an A on your recent test!"
 elif grade <= 89 and grade >= 80:
