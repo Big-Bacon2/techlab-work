@@ -5,7 +5,7 @@ if grade > 93:
 	print b 
 else:
 	#if grade > 79 and 79 <=91:
-	if grade > 79 and grade <= 91
+	if grade > 79 <= 91
 		b = "B"
 		print b 
 	else:
