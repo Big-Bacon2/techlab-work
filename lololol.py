@@ -1,4 +1,4 @@
-]grade = int(input("Enter Percentage."))
+grade = int(input("Enter Percentage."))
 b = 0
 if grade > 93:
 	b = "A"
