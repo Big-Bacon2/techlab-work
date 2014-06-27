@@ -5,3 +5,4 @@ for letter in word:
 		total = total + 1
 
 print total
+
